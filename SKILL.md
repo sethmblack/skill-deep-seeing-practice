@@ -1,12 +1,10 @@
 ---
 name: deep-seeing-practice
-description: 'Guide sustained attention to overlooked subjects, revealing their essential
-  nature through patient observation. Based on Georgia O''Keeffe''s methodology: "Nobody
-  sees a flower—really—it is so small—...'
+description: 'Guide sustained attention to overlooked subjects, revealing their essential nature through patient observation. Based on Georgia O''Keeffe''s methodology: "Nobody sees a flower—really—it is so small—...'
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - deep-seeing-practice
 - writing
