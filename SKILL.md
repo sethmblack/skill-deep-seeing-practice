@@ -4,7 +4,8 @@ description: 'Guide sustained attention to overlooked subjects, revealing their 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3799
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - deep-seeing-practice
 - writing
